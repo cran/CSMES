@@ -5,7 +5,7 @@
 #' @param bc A \code{brierCurve} object created by the \code{brierCurve} function
 #' @param curveType the type of Brier curve to be plotted. Shoul be "brierCost" or"brierSkew".
 #' @export
-#' @import data.table
+#' @importFrom data.table as.data.table
 #' @return None
 #' @author Koen W. De Bock, \email{kdebock@@audencia.com}
 #' @references Hernandez-Orallo, J., Flach, P., & Ferri, C. (2011). Brier Curves: a New Cost-Based Visualisation of Classifier Performance. Proceedings of the 28th International Conference on Machine Learning (ICML-11), 585–592.

@@ -6,7 +6,8 @@
 #' @param labels Vector with true class labels
 #' @param resolution Value for the determination of percentile intervals. Defaults to 1/1000.
 #' @export
-#' @import data.table zoo
+#' @import zoo
+#' @importFrom data.table as.data.table
 #' @return object of the class \code{brierCurve} which is a list with the following components:
 #' \item{brierCurveCost}{Cost-based Brier curve, represented as (cost,loss) coordinates}
 #' \item{brierCurveSkew}{Skew-based Brier curve, represented as (skew,loss) coordinates}

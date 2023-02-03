@@ -57,9 +57,9 @@ enc<-CSMES.ensNomCurve(ESmodel,hillclimb,val$Class,curveType="costCurve",method=
 plot=FALSE)
 }
 \references{
-De Bock, K.W., Lessmann, S. And Coussement, K., 2014, Multicriteria optimization for
-cost-sensitive ensemble selection in business failure prediction, Proc. 20th Conference of the
-International Federation of Operational Research Societies (IFORS 2014), Barcelona, Spain.
+De Bock, K.W., Lessmann, S. And Coussement, K., Cost-sensitive business failure prediction
+when misclassification costs are uncertain: A heterogeneous ensemble selection approach,
+European Journal of Operational Research (2020), doi: 10.1016/j.ejor.2020.01.052.
 }
 \seealso{
 \code{\link{CSMES.ensSel}}, \code{\link{CSMES.predict}}, \code{\link{CSMES.ensNomCurve}}

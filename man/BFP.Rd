@@ -8,8 +8,9 @@
 Business failure prediction demonstration data set. Contains financial ratios and firmographics as independent variables for 522 anonymized European companies. The Class column indicates failure (class 1) or survival (class 0) over a 1-year period.
 }
 \references{
-De Bock, K.W., Lessmann, S. And Coussement, K., 2014, Multicriteria optimization for cost-sensitive ensemble
-selection in business failure prediction, Proc. 20th Conference of the International Federation of Operational Research Societies (IFORS 2014), Barcelona, Spain.
+De Bock, K.W., Lessmann, S. And Coussement, K., Cost-sensitive business failure prediction
+when misclassification costs are uncertain: A heterogeneous ensemble selection approach,
+European Journal of Operational Research (2020), doi: 10.1016/j.ejor.2020.01.052.
 }
 \author{
 Koen W. De Bock, \email{kdebock@audencia.com}
